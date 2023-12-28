@@ -1,4 +1,4 @@
-# SQL-PROJECT
+# CAR SALES ANALYSIS PROJECT
 
 INTRODUCTION
 Steve runs a top-end car showroom but his data analyst has just quit and left him without his crucial insights.
